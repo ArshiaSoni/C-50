@@ -1,0 +1,34 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+}
+.menu * {
+    border: solid;
+}
+
+.item img {
+    border: solid;
+    border-color: cadetblue;
+}
+
+.grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+h3 {
+    color: #ff0000;
+}
+
+body {
+    background-color: #808080;
+}
